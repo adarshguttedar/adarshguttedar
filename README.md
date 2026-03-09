@@ -65,13 +65,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshguttedar&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adarshguttedar&theme=tokyonight"/>
-</p>
 
 ---
 
