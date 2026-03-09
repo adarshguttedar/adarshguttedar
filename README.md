@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Adarsh Guttedar Data Engineer Banner"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Adarsh Guttedar</h1>
 <h3 align="center">Data Engineer | Big Data | Cloud</h3>
 
@@ -37,8 +33,6 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50"/>
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="50"/>
-<img src="https://cdn.simpleicons.org/deltalake/0A84FF" width="50"/>
-<img src="https://img.shields.io/badge/ELT-Pipelines-green?style=for-the-badge"/>
 </p>
 
 ### Data Orchestration
