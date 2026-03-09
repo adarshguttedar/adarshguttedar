@@ -33,6 +33,7 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="50"/>
 <img src="https://cdn.simpleicons.org/databricks/FF3621" width="50"/>
+<img src="https://cdn.simpleicons.org/apachekafka/231F20" width="50"/>
 </p>
 
 ### Data Orchestration
