@@ -17,7 +17,7 @@
 - ⚡ Experienced in **Spark, Databricks, and scalable data pipelines**
 - 📊 Strong skills in **SQL, ELT pipelines, and distributed processing**
 - ☁ Cloud experience with **AWS and Azure**
-- 🛠 Backend development using **Spring Boot**
+- 🛠 Backend development using **Java and Spring Boot**
 
 ---
 
@@ -56,17 +56,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adarshguttedar&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshguttedar&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
